@@ -1,0 +1,4 @@
+**/*.sw*
+**/*.sqlite
+**/Untracked.hpp
+runtime/noobengine
